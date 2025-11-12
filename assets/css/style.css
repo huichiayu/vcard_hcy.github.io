@@ -354,6 +354,24 @@ main {
   border-radius: 8px;
 }
 
+
+.info-content .title2 {
+  color: var(--white-1);
+  background: var(--onyx);
+  font-size: var(--fs-8);
+  font-weight: var(--fw-300);
+  /* --- change starts here --- */
+  width: 100%;             /* let it span full container width */
+  text-align: left;        /* left-align the text */
+  white-space: normal;     /* allow line breaks */
+  word-wrap: break-word;   /* ensure long words break if needed */
+  /* --- keep your existing style --- */
+  padding: 3px 12px;
+  border-radius: 8px;
+}
+
+
+
 .info_more-btn {
   position: absolute;
   top: -15px;
