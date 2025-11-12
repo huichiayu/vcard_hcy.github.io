@@ -356,7 +356,7 @@ main {
 
 
 .info-content .title2 {
-  color: var(--white-1);
+  color: #ffffff;
   background: var(--onyx);
   font-size: var(--fs-8);
   font-weight: var(--fw-300);
