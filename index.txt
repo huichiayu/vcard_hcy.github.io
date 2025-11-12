@@ -2,9 +2,9 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Hui-Chia Yu
+Hui-Chia Yu (游輝嘉)
+Associate Professor
 
 Show Contacts
 
