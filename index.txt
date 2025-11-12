@@ -1,10 +1,11 @@
-vCard - Personal Portfolio
+---
+layout: default
+title: Home
+---
 
-# sidebar
+# Welcome 👋
+This is my personal site hosted on **GitHub Pages** using a Jekyll theme.
 
-alt = Hui-Chia Yu
-游輝嘉
-Associate Professor
-Department of Computational Mathematics, Science and Engineering
-Department of Chemical Engineering and Materials Science 
-Michigan State University
+- 🧠 Research software: BESFEM, PFSS, SBM
+- 🎓 Teaching: CMSE202, NTHU Materials Simulation
+- 🌏 Contact: [GitHub](https://github.com/yourusername)
